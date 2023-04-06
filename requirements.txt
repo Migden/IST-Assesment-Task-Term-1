@@ -1,0 +1,7 @@
+pyperclip
+tkinter
+base64
+pwnedpasswords
+string
+random
+math
